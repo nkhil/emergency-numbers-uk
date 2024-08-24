@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mushroomcloud23.emergencynumbersuk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62091368-689d-42d3-a5a7-6fb0d4b91113"
+      }
+    },
+    "owner": "mushroomcloud23"
   }
 }
